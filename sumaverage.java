@@ -7,6 +7,6 @@ public class sumaverage {
         }            
 System.out.println("sum="+sum);
     double average = (double)sum/arr.length;
-    System.out.println("average=");
+    System.out.println("average="+average);
     }
 }
